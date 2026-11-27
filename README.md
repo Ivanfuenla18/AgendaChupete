@@ -65,3 +65,10 @@ Tradicionalmente, el seguimiento diario en el primer ciclo de educación infanti
 [ Panel Web Dirección (React + Vite + Tailwind) ] ────┘                 │
                                                                        ▼
                                                         [ Firebase Cloud Messaging (FCM) ]
+```
+## 🏫 Contexto académico
+Centro: IES Gaspar Melchor de Jovellanos (Fuenlabrada, Madrid)
+
+Ciclo: CFGS Desarrollo de Aplicaciones Multiplataforma (Curso 2026/27)
+
+Profesor tutor: Víctor Borja Martín Hernández
